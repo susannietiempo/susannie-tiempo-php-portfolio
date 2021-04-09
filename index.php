@@ -5,7 +5,7 @@ $pageTitle = "home";
 ?>
 
 <!-- ======= Intro Section ======= -->
-<div id="home" class="intro route bg-image" style="background-image: url(assets/img/4.png)">
+<div id="home" class="intro route bg-image" style="background-image: url(./assets/img/4.png)">
   <div id="particles-js" class="overlay-itro"></div>
   <div class="intro-content display-table">
     <div class="table-cell">
