@@ -332,11 +332,8 @@ $pageTitle = "home";
                     </div>
                   </form>
                 </div>
-
               </div>
-
             </div>
-
           </div>
         </div>
       </div>
